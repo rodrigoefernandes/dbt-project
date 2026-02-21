@@ -20,15 +20,3 @@ base as (
 )
 
 select * from base
-
-
---IDS
---DSC
---COD
---DTT AND DT
---FL
---VAL
-
---db_depto
-
---dbt run -select stg_db_pedido
